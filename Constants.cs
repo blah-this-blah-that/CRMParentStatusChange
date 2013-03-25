@@ -11,6 +11,5 @@ namespace ParentStatusChangeGenericPlugin
         public const string SETSTATE = "setstate";
         public const string ENTITYMONIKER = "EntityMoniker";
         public const string STATE = "State";
-        public const string CONTACTID = "contactid";
     }
 }
